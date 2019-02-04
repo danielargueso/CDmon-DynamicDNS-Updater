@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MainConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Encryption>MD5</Encryption>
+  <User>user</User>
+  <Password>Pa$$w0rd</Password>
+  <Url>https://dinamico.cdmon.org/onlineService.php</Url>
+  <WebServiceResultSeparator>Ampersand</WebServiceResultSeparator>
+</MainConfig>
